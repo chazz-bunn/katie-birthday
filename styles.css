@@ -2,3 +2,12 @@ body {
 	background-color: #89cff0;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+p {
+	color: darkred;
+	font-size: large;
+}
+
+h1 {
+	color: darkred;
+}
